@@ -1,15 +1,8 @@
 
 # Temporal Spring Boot Integration Demo
-[![CLA assistant](https://cla-assistant.io/readme/badge/dussab/temporal-spring-demo)](https://cla-assistant.io/dussab/temporal-spring-demo)
 
 ## Links
-Test
-Test 2
 
-Test 3
-Test 4
-Test 5
-Test 6
 
 
 
